@@ -11,7 +11,7 @@ A Byte-Pair Encoding (BPE) tokenizer for Urdu with intelligent auto-tuning and a
 
 ## 📺 Demo
 
-https://github.com/user-attachments/assets/your-screenshot-here
+<img width="1958" height="1074" alt="image" src="https://github.com/user-attachments/assets/baf057be-7e5e-4d6d-a96d-3603b488c674" />
 
 > **Try it yourself**: Clone and run `python src/app_tokenizer_ui.py`
 
