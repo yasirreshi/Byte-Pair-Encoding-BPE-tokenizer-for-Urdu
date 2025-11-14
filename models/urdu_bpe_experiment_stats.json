@@ -1,0 +1,11 @@
+{
+  "vocab_size": 5500,
+  "total_chars": 127845,
+  "total_tokens": 31042,
+  "compression_ratio": 4.11845241930288,
+  "initial_requested_vocab": 5500,
+  "requested_vocab": 5500,
+  "meets_compression_target": true,
+  "compression_target": 3.2,
+  "vocab_cap_mode": "UNCAPPED"
+}
