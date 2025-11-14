@@ -1,8 +1,41 @@
 # Urdu BPE Tokenizer
- 
+
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Tokenizers](https://img.shields.io/badge/tokenizers-0.19.1-green.svg)](https://github.com/huggingface/tokenizers)
+[![Gradio](https://img.shields.io/badge/gradio-4.44.0-orange.svg)](https://gradio.app/)
+
+**Course**: ERA v4 - Session 11  
 **Topic**: Building a Production-Quality BPE Tokenizer from Scratch
 
 A Byte-Pair Encoding (BPE) tokenizer for Urdu with intelligent auto-tuning and an interactive web UI.
+
+## 📺 Demo
+
+https://github.com/user-attachments/assets/your-screenshot-here
+
+> **Try it yourself**: Clone and run `python src/app_tokenizer_ui.py`
+
+## 🚀 Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/YOUR_USERNAME/urdu-bpe-tokenizer.git
+cd urdu-bpe-tokenizer
+
+# Setup environment
+python -m venv .venv
+.venv\Scripts\Activate.ps1  # Windows
+# source .venv/bin/activate  # Linux/Mac
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Launch the UI
+python src/app_tokenizer_ui.py
+```
+
+Open http://localhost:7860 in your browser and start tokenizing! 🎉
 
 ## Project Status: ✅ Complete
 
