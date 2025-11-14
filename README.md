@@ -5,7 +5,6 @@
 [![Tokenizers](https://img.shields.io/badge/tokenizers-0.19.1-green.svg)](https://github.com/huggingface/tokenizers)
 [![Gradio](https://img.shields.io/badge/gradio-4.44.0-orange.svg)](https://gradio.app/)
 
-**Course**: ERA v4 - Session 11  
 **Topic**: Building a Production-Quality BPE Tokenizer from Scratch
 
 A Byte-Pair Encoding (BPE) tokenizer for Urdu with intelligent auto-tuning and an interactive web UI.
